@@ -4,7 +4,7 @@
     {"id":{"name":"spr_pipe","path":"sprites/spr_pipe/spr_pipe.yy",},"order":4,},
     {"id":{"name":"spr_bird","path":"sprites/spr_bird/spr_bird.yy",},"order":1,},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":3,},
-    {"id":{"name":"SnidrsObject","path":"objects/SnidrsObject/SnidrsObject.yy",},"order":1,},
+    {"id":{"name":"obj_pipe","path":"objects/obj_pipe/obj_pipe.yy",},"order":1,},
     {"id":{"name":"spr_test","path":"sprites/spr_test/spr_test.yy",},"order":0,},
     {"id":{"name":"Object_added_by_Bart","path":"objects/Object_added_by_Bart/Object_added_by_Bart.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
