@@ -1,2 +1,2 @@
-///@desc
-if x+64<camera_get_view_x(view_camera[0]) instance_destroy();
+///@desc Delete once passed
+if (x+sprite_width < obj_bird.x-240) instance_destroy();
