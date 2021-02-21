@@ -2,7 +2,7 @@
 
 var _jump = mouse_check_button_pressed(mb_left) || keyboard_check_pressed(vk_space);
 
-if (y>=460)
+if (y>=460) || place_meeting(x,y,obj_pipe)
 {
 	y = 460;
 	vspeed = 0;
@@ -12,7 +12,11 @@ if (y>=460)
 if _jump
 {
 	vspeed = -10;
-	if !global.go y = ystart;
+	if !global.go
+	{
+		x = xstart;
+		y = ystart;
+	}
 	global.go = 1;
 }
 
