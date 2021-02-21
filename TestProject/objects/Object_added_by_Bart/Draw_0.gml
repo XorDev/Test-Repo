@@ -1,4 +1,4 @@
-///@desc
+///@desc Xor's code
 
 var _t,_x,_y;
 _t = current_time/10;
