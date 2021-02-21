@@ -1,5 +1,5 @@
 /// @description Barts draw event's code
-draw_sprite(sprite_index, 0, x, y);
+draw_sprite(spr_test, 0, x, y);
 
 // More code to come here
 // TODO
