@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"SnidrsObject","path":"objects/SnidrsObject/SnidrsObject.yy",},"order":1,},
     {"id":{"name":"spr_test","path":"sprites/spr_test/spr_test.yy",},"order":0,},
     {"id":{"name":"Object_added_by_Bart","path":"objects/Object_added_by_Bart/Object_added_by_Bart.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
