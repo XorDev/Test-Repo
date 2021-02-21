@@ -22,6 +22,7 @@ if _flap
 	//Reset if the game ended
 	if !global.go
 	{
+		score = 0;
 		image_speed = .25;
 		instance_destroy(obj_pipe);
 		x = xstart;
